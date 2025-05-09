@@ -1,15 +1,11 @@
 <img src="./githubreadmebanner.png" width="100%"/>
 
-<h3 align="center" style="line-height: 8px;">Software Engineer @ <span style="font-weight:bold; line-height: 10px;">VOX Funding</span></h3>
-<h3 align="center" style="line-height: 8px;">Lead Developer of <span style="font-weight:bold; line-height: 10px;">straysafe</span></h3>
-
-<h4 align="center">studying Computer Science at Drexel University</h4>
+<h4 align="center" style="line-height: 0px;">Software Engineer @ <span style="font-weight:bold; line-height: 0px;">VOX Funding</span> | Lead Developer of <span style="font-weight:bold; line-height: 0px;">straysafe</span> </h4>
+<h5 align="center">studying Computer Science at Drexel University</h4>
 
 # About Me
 
-Hi! I'm Hassan Khan, a Computer Science student at Drexel University and an aspiring fullstack developer, specializing in .NET. I am currently a Software Engineer at <span style="font-weight:bold;">VOX Funding</span>, where I am learning the industry standards for developing financial software, as well as gaining valuable insight in the stakeholder-developer collaboration process; an aspect of software engineering that you just don't get from personal projects.
-
-Speaking of personal projects, I'm also the solo developer and designer of <span style="font-weight:bold;">straysafe</span>, a stray animal tracking platform that I hope to make open source and release officially soon.
+Hi! I'm Hassan Khan, a Computer Science student at Drexel University and an aspiring fullstack developer, specializing in .NET.
 
 From designing components and graphics in Photoshop and Figma, to implementing React components, developing endpoints in .NET with C#, and managing databases, I'm grateful for the years of experience that have allowed me to explore all these interesting areas of the software engineering process. I'm always looking to try new things and expand my knowledge.
 

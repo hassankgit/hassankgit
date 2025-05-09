@@ -1,6 +1,7 @@
 <img src="./githubreadmebanner.png" width="100%"/>
 
-<h4 align="center" style="line-height: 0px;">Software Engineer @ <span style="font-weight:bold; line-height: 0px;">VOX Funding</span> | Lead Developer of <span style="font-weight:bold; line-height: 0px;">straysafe</span> </h4>
+<h4 align="center" style="line-height: 0px;">Software Engineer @ <span style="font-weight:bold; line-height: 0px;font-size:16px">VOX Funding</span>
+| Lead Developer of <span style="font-weight:bold; line-height: 0px; font-size:16px">straysafe</span> </h4>
 <h5 align="center">studying Computer Science at Drexel University</h4>
 
 # About Me
